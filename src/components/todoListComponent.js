@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
-import TodoListItemComponent from './toDoListItemComponent';
-import TodoListAddComponent from './toDoListAddComponent';
+import TodoListItemComponent from './todoListItemComponent';
+import TodoListAddComponent from './todoListAddComponent';
 
 export default class todoListComponent extends Component {
     constructor(props) {
