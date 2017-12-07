@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6d3d63b5-2302-4e7d-a15e-523d5b0be8d2" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/npm-debug.log" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/src/components/todoListComponent.js" afterPath="$PROJECT_DIR$/src/components/todoListComponent.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -298,7 +294,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111873000" />
+    <option name="totallyTimeSpent" value="112049000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="24" width="1855" height="1084" extended-state="6" />
